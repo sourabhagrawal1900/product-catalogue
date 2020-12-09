@@ -1,0 +1,23 @@
+
+
+body, html {
+  margin: 0;
+  width: 100%;
+}
+
+html {
+  height: 100%;
+}
+
+body {
+  padding: 0;
+  font-size: 13px;
+  line-height: 1.42857143;
+  -webkit-font-smoothing: antialiased;
+  font-family: "Open Sans", "lucida grande", "Segoe UI", arial, verdana, "lucida sans unicode", tahoma, serif;
+  overflow-x: hidden;
+  min-height: 100%;
+  text-rendering: optimizeLegibility;
+  color: $default;
+  background: $background-color;
+}

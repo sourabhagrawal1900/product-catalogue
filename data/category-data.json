@@ -1,0 +1,23 @@
+{
+  "data": {
+    "counts" : 4,
+    "categories": [
+      {
+        "id": 1,
+        "name": "Laptops"
+      },
+      {
+        "id": 2,
+        "name": "Mobiles"
+      },
+      {
+        "id": 3,
+        "name": "Speakers"
+      },
+      {
+        "id": 4,
+        "name": "Headphones"
+      }
+    ]
+  }
+}

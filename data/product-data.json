@@ -1,0 +1,79 @@
+{
+  "data": {
+    "counts": 12,
+    "products": [
+      {
+        "id": 1,
+        "name": "Lenovo",
+        "images": "images/sample-image.png",
+        "categoryId": 1
+      },
+      {
+        "id": 2,
+        "name": "Mac",
+        "images": "images/sample-image.png",
+        "categoryId": 1
+      },
+      {
+        "id": 3,
+        "name": "Dell",
+        "images": "images/sample-image.png",
+        "categoryId": 1
+      },
+      {
+        "id": 4,
+        "name": "Oppo",
+        "images": "images/sample-image.png",
+        "categoryId": 2
+      },
+      {
+        "id": 5,
+        "name": "MI",
+        "images": "images/sample-image.png",
+        "categoryId": 2
+      },
+      {
+        "id": 6,
+        "name": "Vivo",
+        "images": "images/sample-image.png",
+        "categoryId": 2
+      },
+      {
+        "id": 7,
+        "name": "Samsung",
+        "images": "images/sample-image.png",
+        "categoryId": 2
+      },
+      {
+        "id": 8,
+        "name": "Iphone",
+        "images": "images/sample-image.png",
+        "categoryId": 2
+      },
+      {
+        "id": 9,
+        "name": "Philips",
+        "images": "images/sample-image.png",
+        "categoryId": 3
+      },
+      {
+        "id": 10,
+        "name": "MI",
+        "images": "images/sample-image.png",
+        "categoryId": 4
+      },
+      {
+        "id": 11,
+        "name": "Boat",
+        "images": "images/sample-image.png",
+        "categoryId": 4
+      },
+      {
+        "id": 12,
+        "name": "JBL",
+        "images": "images/sample-image.png",
+        "categoryId": 4
+      }
+    ]
+  }
+}
