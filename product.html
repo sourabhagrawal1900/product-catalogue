@@ -3,7 +3,7 @@
 <!-- Head BEGIN -->
 <head>
     <meta charset="utf-8">
-    <title>Product Catalogue</title>
+    <title>Product Detail</title>
     <base href="/">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="./styles/style.css" rel="stylesheet"/>
@@ -19,15 +19,12 @@
     </div>
 </div>
 <!-- Header END -->
+<a href="/" class="back-btn">Back</a>
 <div class="main-content">
     <section>
-        <label>Category</label>
-        <select id="cat-id" name="category" onchange="changeCategory(this.id)"></select>
-    </section>
-    <section>
-        <div id="product-list"></div>
+        <div id="product-detail"></div>
     </section>
 </div>
-<script src="./scripts/main.js" charset="utf-8"></script>
+<script src="./scripts/product.js" charset="utf-8"></script>
 </body>
 </html>
